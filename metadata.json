@@ -1,0 +1,6 @@
+{
+  "name": "TeraStream",
+  "description": "A clean, dark-themed video streaming app for TeraBox links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
